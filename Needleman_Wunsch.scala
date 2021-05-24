@@ -1,4 +1,4 @@
-package assignments
+package DNA_Classification
 
 import java.util.ArrayList
 
